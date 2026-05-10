@@ -2,7 +2,7 @@
 
 ### Computer Science with Mathematics Student | AI & Machine Learning Enthusiast | AI Engineering Learner
 
-I'm a passionate tech learner at Obafemi Awolowo University who enjoys building with Python, exploring Machine Learning, and turning data into meaningful insights through visualization and analysis.
+I'm a passionate tech learner at Obafemi Awolowo University who enjoys building with Python, exploring Machine Learning and AI Engineering, and turning data into meaningful insights through visualization and analysis.
 
 I love learning publicly, building consistently, and documenting my growth in tech through projects and daily posts on LinkedIn and X.
 
