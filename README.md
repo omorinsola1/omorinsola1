@@ -1,6 +1,6 @@
 # Hi there, I'm Araba Mary Omorinsola 👋
 
-### Computer Science with Mathematics Student | AI & Machine Learning Enthusiast | AI ENGINEERING Learner
+### Computer Science with Mathematics Student | AI & Machine Learning Enthusiast | AI Engineering Learner
 
 I'm a passionate tech learner at Obafemi Awolowo University who enjoys building with Python, exploring Machine Learning, and turning data into meaningful insights through visualization and analysis.
 
