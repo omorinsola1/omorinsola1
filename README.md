@@ -96,7 +96,7 @@ I'm open to:
 ## 🌍 Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/arabamary]
-- X (Twitter): [@marieee_luvv]
+- X (Twitter): [https://x.com/Marieee_luvv]
 - Email :[arabaomorinsola@gmail.com]
 ---
 
